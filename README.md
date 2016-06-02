@@ -1,13 +1,56 @@
 # life saving links
 a list of links from around the web that totally save your ass
-## How To write a good MarkDown File
- * [Github MarkDown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## DevOps Resources 
+### How To write a good MarkDown File
+ * [Github MarkDown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+ * [Github Examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### DevOps Resources 
  * [Next Big What](http://blog.nextbigwhat.com/devops-sysadmin-tools-resources-297/)
  * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
 
-## Stack Overflow Solutions 
+### Design Tutorials & Resources
+ * [creative blog typography tutorials](http://www.creativebloq.com/graphic-design-tips/typography-tutorials-1232719)
+ * [creative blog - microinteraction](http://www.creativebloq.com/web-design/improve-your-site-microinteractions-10134906)
+ * [instagram effects using CSS](https://una.im/CSSgram/)
 
-## Site Optimisation
+### Design Solutions 
+ * [progressive enhancement vs graceful degradation](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement)
+ * [basics of progressive enhancement](https://www.sitepoint.com/progressive-enhancement-graceful-degradation-basics/)
+
+### JS Tutorials 
+ * [generate random numbers](https://bocoup.com/weblog/random-numbers)
+ * [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+ * [ES6 tutorial](https://babeljs.io/docs/learn-es2015/)
+
+### JS Libraries
+ * [echo JS](https://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
+
+### Git Tutorials
+ * [atlassian - full git tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+ * [git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+ * [git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
+### Basic Web Security
+ * [prevent directory listing](http://www.thesitewizard.com/apache/prevent-directory-listing-htaccess.shtml)
+ * [prevent web scraping](http://www.sitepoint.com/using-htaccess-prevent-web-scraping/)
+
+### Articles & Blogs
+ * #### Blogs
+ 	* [jorge ramon](http://jorgeramon.me/)
+ 	* [adrian mejia](http://adrianmejia.com/)
+ * #### Articles 
+   * [Top JS libraries 2016](https://codegeekz.com/top-javascript-libraries-for-february-2016/)
+
+### Stack Overflow Solutions 
+ * [progressive enhancement and graceful degradation - what is the difference](http://stackoverflow.com/questions/2550431/what-is-the-difference-between-progressive-enhancement-and-graceful-degradation)
+
+### Site Optimisation
  * [Wordpress Optimisation](http://www.onextrapixel.com/2015/02/21/how-to-make-your-wordpress-site-blazing-fast/)
+ * [Faster Page Loads](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+
+### Free E-BOOKS
+  * [All IT Books](http://www.allitebooks.com/)
+
+### Extras
+ * [VLC with 4K HD support & hevc video](https://github.com/strukturag/vlc-2.1/releases/tag/2.1.4-libde265-4)
