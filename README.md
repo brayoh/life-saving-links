@@ -12,6 +12,7 @@ a list of links from around the web that totally save your ass
  * [instagram effects using CSS](https://una.im/CSSgram/)
  * [Bootstrap 4 cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet/)
  * [Flat Icons](http://mashable.com/2013/08/14/flat-design-icons/)
+ * [Watercolor effect Photoshop](http://abduzeedo.com/super-cool-watercolor-effect-10-steps-photoshop)
 
 ### Design Solutions 
  * [progressive enhancement vs graceful degradation](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement)
@@ -40,8 +41,9 @@ a list of links from around the web that totally save your ass
 ### Advanced Web Security
  * [sub resource integrity](https://frederik-braun.com/using-subresource-integrity.html)
 
-### Microservices
- * [building microservices](https://dzone.com/articles/building-microservices-using)
+### Software Architecture
+ * Microservices
+   * [building microservices](https://dzone.com/articles/building-microservices-using)
 
 ### Articles & Blogs
  * Blogs
@@ -55,6 +57,9 @@ a list of links from around the web that totally save your ass
 
 ### Stack Overflow Solutions 
  * [progressive enhancement and graceful degradation - what is the difference](http://stackoverflow.com/questions/2550431/what-is-the-difference-between-progressive-enhancement-and-graceful-degradation)
+
+### Mobile Apps dev
+ * [Intel XDK tutorial](http://qnimate.com/post-series/intel-xdk-complete-training/)
 
 ### API's 
  * [currency converter](https://currencylayer.com/)
