@@ -43,7 +43,10 @@ a list of links from around the web that totally save your ass
 
 ### Software Architecture
  * Microservices
+   * [introduction to microservices - full tutorial](https://www.nginx.com/blog/introduction-to-microservices/)
    * [building microservices](https://dzone.com/articles/building-microservices-using)
+   * Load Balancing
+     * [scaling HAproxy to handle 300k concurrent request ](https://www.linangran.com/?p=547) 
 
 ### Articles & Blogs
  * Blogs
