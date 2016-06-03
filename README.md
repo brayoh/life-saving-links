@@ -77,6 +77,10 @@ a list of links from around the web that totally save your ass
 ### Free E-BOOKS
   * [All IT Books](http://www.allitebooks.com/)
 
+### Hacking & Cracking
+ * [Alphabetical list of kali linux commands](https://www.cybrary.it/0p3n/kali-linux-commands-list/)
+ * [Run Kali Linux in your browser](http://jerrygamblin.com/2016/05/31/kalibrowser/)
+ 
 ### Extras
  * [VLC with 4K HD support & hevc video](https://github.com/strukturag/vlc-2.1/releases/tag/2.1.4-libde265-4)
 
