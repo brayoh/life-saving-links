@@ -1,7 +1,9 @@
 # life saving links
 a list of links from around the web that totally save your ass
 
-
+### OOP
+ * [crucial concepts in OOP](https://codingsec.net/2016/06/key-concepts-learn-object-oriented-programming/)
+ 
 ### DevOps Resources 
  * [Next Big What](http://blog.nextbigwhat.com/devops-sysadmin-tools-resources-297/)
  * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
@@ -25,6 +27,7 @@ a list of links from around the web that totally save your ass
  * [ES6 tutorial](https://babeljs.io/docs/learn-es2015/)
  * [script tag in detail](http://www.sitepoint.com/a-detailed-breakdown-of-the-script-tag/)
  * [cross site scripting](https://www.owasp.org/index.php/Types_of_Cross-Site_Scripting)
+ * [Detect memory leaks in Node JS](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
 
 ### JS Libraries
  * [echo JS](https://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
